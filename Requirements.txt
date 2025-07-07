@@ -1,0 +1,5 @@
+Requirements: 
+2GB RAM
+Python 3.0+ (may work with before?)
+Pygame 2.6.0+
+Thanks to Ehsan Zafari for the colours CSV!
